@@ -11,6 +11,7 @@ h1, h2, h3{
 .top  {
   background-image: url("../images/background.png");
 }
+
 .top h1{
   font-size:70px;
   color: white;
@@ -18,5 +19,24 @@ h1, h2, h3{
 
 .nav {
   font-size: 18px;
+  color: white;
+}
+
+/* info sections */
+.info h2{
+  font-size: 32px;
+}
+
+.info-parts h3{
+  font-size: 23px;
+}
+
+.info-parts p{
+  font-size:14px;
+}
+
+/* middle portion */
+.top h2{
+  font-size: 23px;
   color: white;
 }
